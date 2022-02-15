@@ -16,8 +16,10 @@ on every flash for progress.
 ```
 
 # Status
-**NOTE: 'HQ Audio' means the flash has a separate audio file. If it doesn't, the audio file is baked into the .swf file.** :arrow
+**NOTE: 'HQ Audio' means the flash has a separate audio file. If it doesn't, the audio file is baked into the .swf file.**
+
 :x: - Not Finished | :heavy_check_mark: - Audio Finished | :star: - Audio and Credits finished
+
 Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 |---|---|---|---|---|---|
 | :x: | 00070 | [S] John: Play haunting piano refrain. | Showtime (Piano Refrain) | Showtime (Marching Band) | :x: |
