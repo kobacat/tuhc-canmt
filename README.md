@@ -74,7 +74,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | sweetbroandhellajeff | SBAHJthemovie1 | where making this happen |  | :x: |
 | :x: | 11931 | [S] John: Reunite with your loving wife and daughter. | How Do I Live (Bunny Back in the Box Version) | How Do I Live? (Quality Back in the Album Version) | :heavy_check_mark: |
 | :x: | 01940 | [S] Descend. | Descend | go down (cool and new Mix) | :heavy_check_mark: |
-| :x: | hs2/scraps/showdown.mp3 | [S???] ======> | Showdown |  | :heavy_check_mark: |
+| :x: | showdown.mp3 | [S???] ======> | Showdown |  | :heavy_check_mark: |
 | :x: | 02577 | [S] Make her pay. | Crystamanthequins | the worst song on the album | :heavy_check_mark: |
 | :x: | 02625 | [S] ACT 5 ACT 2 ==> | Homestuck | Nurse Joy | :heavy_check_mark: |
 | :x: | 02786 | [S] Vriska: Watch street tough maverick with nothing to lose | How Do I Live (Bunny Back in the Box Version) | I knew you was a punk | :heavy_check_mark: |
