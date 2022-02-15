@@ -16,7 +16,8 @@ on every flash for progress.
 ```
 
 # Status
-**NOTE: 'HQ Audio' means the flash has a separate audio file. If it doesn't, the audio file is baked into the .swf file.**
+**NOTE: 'HQ Audio' means the flash has a separate audio file. If it doesn't, the audio file is baked into the .swf file.** :arrow
+:x: - Not Finished | :heavy_check_mark: - Audio Finished | :star: - Audio and Credits finished
 Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 |---|---|---|---|---|---|
 | :x: | 00070 | [S] John: Play haunting piano refrain. | Showtime (Piano Refrain) | Showtime (Marching Band) | :x: |
@@ -82,7 +83,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 03000 | [S] Jade: STRIFE!!!!!!!!!!!! | Sunslammer |  | :x: |
 | :x: | 03077 | [S] John: Enter village. | Planet Healer, Fear of the Heavens |  | :x: |
 | :x: | 03085 | [S] JOHN: RISE UP. | Savior of the Waking World |  | :heavy_check_mark: |
-| :heavy_check_mark: | 13294 | [S] Wake. | MeGaLoVania | Mayorlovania | :heavy_check_mark: |
+| :star: | 13294 | [S] Wake. | MeGaLoVania | Mayorlovania | :heavy_check_mark: |
 | :x: | 03318 | [S] Kanaya: Return to the core. | 5 songs |  | :x: |
 | :x: | 03435 | [S] Equius: Seek the highb100d | 5 songs |  | :x: |
 | :x: | 03517 | [S] 3x SHOWDOWN COMBO. | Trollian Standoff |  | :heavy_check_mark: |
