@@ -27,12 +27,17 @@ module.exports = {
     <p>i dunno dude, it's, like, ur choice, you know?</p>`,
 
     routes: {
-        'assets://storyfiles/hs2/13294/13294.mp3': './music/13294/13294.mp3',
-        'assets://storyfiles/hs2/03294/03294.mp3': './music/03294/03294.mp3',
-        'assets://storyfiles/hs2/00137/00137.mp3': './music/00137/00137.mp3',
-        'assets://storyfiles/hs2/00222/00222.mp3': './music/00222/00222.mp3',
-        'assets://storyfiles/hs2/10246/10246.mp3': './music/10246/10246.mp3',
-        'assets://storyfiles/hs2/00253/afterthought-showtime_piano.mp3': './music/00253/afterthought-showtime_piano.mp3',
+        'assets://storyfiles/hs2/13294/13294.mp3': './music/13294/13294.mp3', // Megalovania
+        'assets://storyfiles/hs2/03294/03294.mp3': './music/03294/03294.mp3', // Megalovania
+        'assets://storyfiles/hs2/00137/00137.mp3': './music/00137/00137.mp3', // Sburban Jungle (Brief Mix)
+        'assets://storyfiles/hs2/00222/00222.mp3': './music/00222/00222.mp3', // Aggrieve (Violin Refrain)
+        'assets://storyfiles/hs2/10246/10246.mp3': './music/10246/10246.mp3', // Sburban Cascantdown
+        'assets://storyfiles/hs2/00253/afterthought-showtime_piano.mp3': './music/00253/afterthought-showtime_piano.mp3', // Showtime (Piano Refrain)
+        'assets://storyfiles/hs2/00644/00644.mp3': './music/00644/00644.mp3', // John Sleeps / Skaian Magicant
+        'assets://storyfiles/hs2/00651/00651.mp3': './music/00651/00651.mp3', // John Sleeps / Skaian Magicant
+        'assets://storyfiles/hs2/00665/00665.mp3': './music/00665/00665.mp3', // Upward Movement (Dave Owns)
+        'assets://storyfiles/hs2/00755/00755.mp3': './music/00755/00755.mp3', // Sburban Reversal (Original)
+        'assets://storyfiles/hs2/00757/00757.mp3': './music/00757/00757.mp3', // Explore
     },
 
     trees: {

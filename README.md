@@ -39,12 +39,12 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00418 | [S] WHAT THIS IS SO OUTRAGEOUS | Nannaquin |  | :x: |
 | :x: | 00422 | [S] GO ON. ==> | Skies of Skaia | Skaian Skaia of Skaia | :x: |
 | :x: | 00476 | [S] ==> | Harlequin (Rock Version) |  | :x: |
-| :x: | 00644 | [S] John: Sleep. | John Sleeps / Skaian Magicant | Skaian Skaia of Skaia | :heavy_check_mark: |
-| :x: | 00651 | [S] John: Wake Up. | John Sleeps / Skaian Magicant | Skaian Skaia of Skaia | :heavy_check_mark: |
-| :x: | 00665 | [S] Dave: Ascend to the highest point of the building. | Upward Movement (Dave Owns) | UPWARD REDVX | :heavy_check_mark: |
+| :heavy_check_mark: | 00644 | [S] John: Sleep. | John Sleeps / Skaian Magicant | Skaian Skaia of Skaia | :heavy_check_mark: |
+| :heavy_check_mark: | 00651 | [S] John: Wake Up. | John Sleeps / Skaian Magicant | Skaian Skaia of Skaia | :heavy_check_mark: |
+| :heavy_check_mark: | 00665 | [S] Dave: Ascend to the highest point of the building. | Upward Movement (Dave Owns) | UPWARD REDVX | :heavy_check_mark: |
 | :x: | 00721 | [S] WV: Lead your men to victory! | Vagabounce | Vagaboing | :x: |
-| :x: | 00755 | [S] WV: Hasten to the exit post-haste! | Sburban Reversal (Original) | Cascantan Reversal | :heavy_check_mark: |
-| :x: | 00757 | [S] WV: Ascend. | Explore | Explored | :heavy_check_mark: |
+| :heavy_check_mark: | 00755 | [S] WV: Hasten to the exit post-haste! | Sburban Reversal (Original) | Cascantan Reversal | :heavy_check_mark: |
+| :heavy_check_mark: | 00757 | [S] WV: Ascend. | Explore | Explored | :heavy_check_mark: |
 | :x: | 00769 | [S] Jade: Play a silly little flute refrain. | Flute performance |  | :x: |
 | :x: | 00822 | [S] Jade: Play a hauntingly relaxing bassline. | Gardener | Sweet Haunt and Hella Bass | :x: |
 | :x: | 00830 | [S] Jade: Open FreshJamz! | 9 songs |  | :x: |
