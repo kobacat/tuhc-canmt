@@ -28,7 +28,11 @@ module.exports = {
 
     routes: {
         'assets://storyfiles/hs2/13294/13294.mp3': './music/13294/13294.mp3',
-        'assets://storyfiles/hs2/03294/03294.mp3': './music/03294/03294.mp3'
+        'assets://storyfiles/hs2/03294/03294.mp3': './music/03294/03294.mp3',
+        'assets://storyfiles/hs2/00137/00137.mp3': './music/00137/00137.mp3',
+        'assets://storyfiles/hs2/00222/00222.mp3': './music/00222/00222.mp3',
+        'assets://storyfiles/hs2/10246/10246.mp3': './music/10246/10246.mp3',
+        'assets://storyfiles/hs2/00253/afterthought-showtime_piano.mp3': './music/00253/afterthought-showtime_piano.mp3',
     },
 
     trees: {
