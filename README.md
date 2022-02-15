@@ -4,7 +4,7 @@
 # So, what is this?
 This is a mod for the [Unofficial Homestuck Collection](https://github.com/Bambosh/unofficial-homestuck-collection), a offline application for Homestuck & more. Homestuck has had many flashes with music attached to them, with almost every flash having a unique song.
 
-In 2016, the [Cool and New Music Team](https://coolandnewwebcomic.bandcamp.com/), a music team consisting of dozens of Homestuck fans, created three [Cool and New Homestuck](https://coolandnewwebcomic.bandcamp.com/album/cool-and-new-homestuck) albums rescoring and remixing nearly every single flash in Homestuck. This mod aims to replace the songs **every** single Flash with it's rescored counterpart (if it exists). On top of that, the mod aims to add proper credits to every single one, built right into the collection.
+In 2016, the [Cool and New Music Team](https://coolandnewwebcomic.bandcamp.com/), a music team consisting of dozens of Homestuck fans, created three [Cool and New Homestuck](https://coolandnewwebcomic.bandcamp.com/album/cool-and-new-homestuck) albums rescoring and remixing nearly every single flash in Homestuck. This mod aims to replace the songs in **every** single Flash with it's rescored counterpart (if it exists). On top of that, the mod aims to add proper credits to every single one, built right into the collection.
 
 ```diff
 - NOTICE -
