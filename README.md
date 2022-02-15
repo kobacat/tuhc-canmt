@@ -92,7 +92,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 03676 | [S] All: Behold glory of Zillyhoo. | Warhammer of Zillyhoo | AAAAAAAAAAAAA (Post-canon version) | :heavy_check_mark: |
 | :x: | 03692 | [S] Seer: Descend | Black Rose / Green Sun | "You Know, You Could Cut Yourself With That Edge" | :heavy_check_mark: |
 | :x: | 03693 | [S] ==> | At the Price of Oblivion | "You Know, You Could Cut Yourself With That Edge" | :heavy_check_mark: |
-| :x: | 03715 | [S] Terezi: Read note. | Secret ROM |  | :x: |
+| :x: | 03715 | [S] Terezi: Read note. | Secret ROM | X - V A P O R - R O M | :x: |
 | :x: | 03722 | [S] Terezi: Play records. | 6 songs |  | :x: |
 | :x: | 03741 | [S] Seer: Ascend | Terezi Owns | UPW4RD SN1FFM3NT | :heavy_check_mark: |
 | :x: | 03757 | [S] Flip. | BL1ND JUST1C3: 1NV3ST1G4T1ON !! | Deaf Injustice: Ignoration!! | :x: |
@@ -119,7 +119,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 04939 | [S] DD: Ascend. | Black | Black (Extended) | :x: |
 | :x: | 04941 | [S] DD: Ascend more casually. | I'm a Member of the Midnight Crew (Acapella) | I'm a Member of the Midnight Crew (Canon Version (Canon Edit)) | :heavy_check_mark: |
 | :x: | 05024 | [S] Terry: Fast forward to Liv. | I Don't Want to Miss a Thing | the old version was unusable and we had like one day to replace it | :heavy_check_mark: |
-| :x: | darkcage2 | [S] Wait, what am I supposed to do with this bunny again? | I Don't Want to Miss a Thing |  | :x: |
+| :x: | darkcage2 | [S] Wait, what am I supposed to do with this bunny again? | I Don't Want to Miss a Thing | the old version was unusable and we had like one day to replace it | :x: |
 | :x: | 05235 | [S] Dirk: Synchronize. | Unite Synchronization | dick coordinat | :heavy_check_mark: |
 | :x: | 05249 | [S] Dirk: Unite. | Unite Synchronization | dikr; bring togehter | :heavy_check_mark: |
 | :x: | 05258 | [S] Caliborn: Enter. | Eternity Served Cold | Enter with Caliborn: Destruction Adventure | :heavy_check_mark: |
@@ -150,7 +150,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 05737 | [S] ==> | Trickster Mode (Engage) | JANE ENGAGES WITH SOME MEMES | :x: |
 | :x: | 05756 | [S] ==> | Trickster Mode (Engage) | JANE ENGAGES WITH SOME MEMES | :x: |
 | :x: | 05760 | [S] Tricksters: Alchemize. | A Very Trickster Mode Christmas |  | :x: |
-| :x: | 05761 | [S] ==> | Warhammer of Zillyhoo (With Mario Paint) |  | :x: |
+| :x: | 05761 | [S] ==> | Warhammer of Zillyhoo (With Mario Paint) | AAAAAAAAAAAAA (Post-canon version) (With Mario Paint) | :x: |
 | :x: | 05773 | [S] WHEEEEEEEEEEE! | A Very Trickster Mode Christmas (WHEEEEEEEEEEE!) |  | :x: |
 | :x: | 05774 | [S] HA HA HA! HE HE HE! HO HO HO! | A Very Trickster Mode Christmas (With Fancy Santas) |  | :x: |
 | :x: | 05978 | [S][A6I5] BEGIN INTERFISHIN | Elevatorstuck | Slight Delay | :heavy_check_mark: |
