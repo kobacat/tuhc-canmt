@@ -26,12 +26,12 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 10082 | [S] ==> | Windchime Foley | Backyard Dumb | :x: |
 | :x: | 00088 | [S] John: Enter | Harlequin | Harlecoaster (Not Voul. 1 Mix) | :x: |
 | :x: | 00090 | [S] STRIFE! | Showtime (Original Mix) | Showtime (Marching Band) | :x: |
-| :x: | 00137 | [S] ==> | Sburban Jungle (Brief Mix) | XP Boogie | :heavy_check_mark: |
+| :heavy_check_mark: | 00137 | [S] ==> | Sburban Jungle (Brief Mix) | XP Boogie | :heavy_check_mark: |
 | :x: | 00186 | [S] ==> | Harlequin | Harlecoaster (Not Voul. 1 Mix) | :x: |
-| :x: | 00222 | [S] Rose: Play a haunting refrain on the violin. | Aggrieve (Violin Refrain) | i got out my viola and did an RCT dodle because it was an emergency | :heavy_check_mark: |
-| :x: | 10246 | [S] John: Take bite of apple. | Sburban Countdown | Sburban Cascantdown | :heavy_check_mark: |
-| :x: | 00253 | [S] YOU THERE. BOY. | Showtime (Piano Refrain), Harlequin | Spoopy Piano o-o; | :heavy_check_mark: |
-| :x: | 00338 | [S] ==> | 18+ songs |  | :heavy_check_mark: |
+| :heavy_check_mark: | 00222 | [S] Rose: Play a haunting refrain on the violin. | Aggrieve (Violin Refrain) | i got out my viola and did an RCT dodle because it was an emergency | :heavy_check_mark: |
+| :heavy_check_mark: | 10246 | [S] John: Take bite of apple. | Sburban Countdown | Sburban Cascantdown | :heavy_check_mark: |
+| :heavy_check_mark: | 00253 | [S] YOU THERE. BOY. | Showtime (Piano Refrain), Harlequin | Spoopy Piano o-o; | :heavy_check_mark: |
+| :x: | 00338 | [S] ==> | 18+ songs |  | :x: |
 | :x: | 00388 | [S] Rose: Youth roll right out the front door. | Aggrieve | Aggrieve! | :x: |
 | :x: | 00393 | [S] ==>==>==>!!!!!!!!! | Showtime (Imp Strife Mix) | JHON PLAY US A DITTY | :x: |
 | :x: | 00397 | [S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER. | Showtime (Imp Strife Mix) | JHON PLAY US A DITTY | :x: |
