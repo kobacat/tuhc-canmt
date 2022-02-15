@@ -83,93 +83,94 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 03077 | [S] John: Enter village. | Planet Healer, Fear of the Heavens |  | :x: |
 | :x: | 03085 | [S] JOHN: RISE UP. | Savior of the Waking World |  | :heavy_check_mark: |
 | :heavy_check_mark: | 13294 | [S] Wake. | MeGaLoVania | Mayorlovania | :heavy_check_mark: |
-| :x: | 03318 | [S] Kanaya: Return to the core. |  |  | :x: |
-| :x: | 03435 | [S] Equius: Seek the highb100d |  |  | :x: |
-| :x: | 03517 | [S] 3x SHOWDOWN COMBO. |  |  | :heavy_check_mark: |
-| :x: | 03676 | [S] All: Behold glory of Zillyhoo. |  |  | :heavy_check_mark: |
-| :x: | 03692 | [S] Seer: Descend |  |  | :heavy_check_mark: |
-| :x: | 03693 | [S] ==> |  |  | :heavy_check_mark: |
-| :x: | 03715 | [S] Terezi: Read note. |  |  | :x: |
-| :x: | 03722 | [S] Terezi: Play records. |  |  | :x: |
-| :x: | 03741 | [S] Seer: Ascend |  |  | :heavy_check_mark: |
-| :x: | 03757 | [S] Flip. |  |  | :x: |
-| :x: | 03949 | [S][o] ==> |  |  | :x: |
-| :x: | 04082 | [S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO. |  |  | :heavy_check_mark: |
-| :x: | 04106 | [S] Cascade. |  |  | :heavy_check_mark: |
-| :x: | 04108 | [S] Begin Intermission 2. |  |  | :heavy_check_mark: |
-| :x: | 04110 | [S] ACT 6 |  |  | :heavy_check_mark: |
-| :x: | 04272 | [S] ==> |  |  | :heavy_check_mark: |
-| :x: | 04279 | [S] Jane: Get mail. |  |  | :x: |
-| :x: | 04370 | [S][A6I1] Karkat: Mental breakdown. |  |  | :heavy_check_mark: |
-| :x: | hs2/darkcage | [S] Cage: Reveal plan. |  |  | :heavy_check_mark: |
-| :x: | 04387 | [S] END OF ACT 6 INTERMISSION 1 |  |  | :heavy_check_mark: |
-| :x: | 04482 | [S] Roxy: Sleepwalk. |  |  | :heavy_check_mark: |
-| :x: | 04538 | [S] RAP-OFF!!!!!!!!!! |  |  | :x: |
-| :x: | 04569 | [S] Prince of Heart: Rise up. |  |  | :heavy_check_mark: |
-| :x: | 04614 | [S] Frigglish: Fast forward to Jaspersprite. |  |  | :heavy_check_mark: |
-| :x: | pony2 | [S] Ride. |  |  | :heavy_check_mark: |
-| :x: | 04662 | [S] Jane: Enter |  |  | :heavy_check_mark: |
-| :x: | 04812 | [S][A6I2 ??? |  |  | :x: |
-| :x: | 04817 | [S] ACT 6 ACT 3 |  |  | :x: |
-| :x: | 04822 | [S] Jane: Proceed. |  |  | :x: |
-| :x: | 04824 | [S] Jane: Cautiously approach. |  |  | :x: |
-| :x: | 04939 | [S] DD: Ascend. |  |  | :x: |
-| :x: | 04941 | [S] DD: Ascend more casually. |  |  | :heavy_check_mark: |
-| :x: | 05024 | [S] Terry: Fast forward to Liv. |  |  | :heavy_check_mark: |
-| :x: | darkcage2 | [S] Wait, what am I supposed to do with this bunny again? |  |  | :x: |
-| :x: | 05235 | [S] Dirk: Synchronize. |  |  | :heavy_check_mark: |
-| :x: | 05249 | [S] Dirk: Unite. |  |  | :heavy_check_mark: |
-| :x: | 05258 | [S] Caliborn: Enter. |  |  | :heavy_check_mark: |
-| :x: | 05260 | [S] ACT 6 INTERMISSION 3 |  |  | :heavy_check_mark: |
-| :x: | 05370 | [S][A6I3] ==> |  |  | :x: |
-| :x: | 05371 | [S][A6I3] ==> |  |  | :x: |
-| :x: | 05372 | [S][A6I3] ==> |  |  | :x: |
-| :x: | 05373 | [S][A6I3] ==> |  |  | :x: |
-| :x: | 05374 | [S][A6I3] ==> |  |  | :x: |
-| :x: | 05395 | [S][A6I3] ==> |  |  | :heavy_check_mark: |
-| :x: | 05424 | [S][A6I3] MINISTRIFE!!! |  |  | :heavy_check_mark: |
-| :x: | 05435 | [S] ACT 6 ACT 4 |  |  | :heavy_check_mark:|
-| :x: | 05437 | [S] ==> |  |  | :x: |
-| :x: | 05468 | [S][A6I4] ==> |  |  | :x: |
-| :x: | 05469 | [S][A6I4] ==> |  |  | :x: |
-| :x: | 05470 | [S][A6I4] ==> |  |  | :x: |
-| :x: | 05471 | [S][A6I4] ==> |  |  | :x: |
-| :x: | 05482 | [S][A6I4] ==> |  |  | :x: |
-| :x: | 05491 | [S!][A6I4] ==> |  |  | :x: |
-| :x: | 05492 | [!!!][A6I4] ==> |  |  | :x: |
-| :x: | 05509 | [S] ACT 6 ACT 5 |  |  | :heavy_check_mark: |
-| :x: | 05652 | [S] Ride. |  |  | :heavy_check_mark: |
-| :x: | 05708 | [S] Jane: Engage. |  |  | :x: |
-| :x: | 05709 | [S] Jane: Blast off. |  |  | :x: |
-| :x: | 05711 | [S] ACT 6 ACT 5 ACT 2 |  |  | :x: |
-| :x: | 05723 | [S] ==> |  |  | :x: |
-| :x: | 05737 | [S] ==> |  |  | :x: |
-| :x: | 05756 | [S] ==> |  |  | :x: |
-| :x: | 05760 | [S] Tricksters: Alchemize. |  |  | :x: |
-| :x: | 05761 | [S] ==> |  |  | :x: |
-| :x: | 05773 | [S] WHEEEEEEEEEEE! |  |  | :x: |
-| :x: | 05774 | [S] HA HA HA! HE HE HE! HO HO HO! |  |  | :x: |
-| :x: | 05978 | [S][A6I5] BEGIN INTERFISHIN |  |  | :heavy_check_mark: |
-| :x: | 06063 | [S] END OF ACT 6 INTERMISSION 5 INTERMISSION 4 |  |  | :heavy_check_mark: |
-| :x: | 06228 | [S][A6I5] ==> |  |  | :heavy_check_mark: |
-| :x: | 06240 | [S] ACT 6 ACT 6 |  |  | :x: |
-| :x: | 06276 | [S] ACT 6 ACT 6 INTERMISSION 1 |  |  | :heavy_check_mark: |
-| :x: | 06397 | [S][A6A6I1] ====> |  |  | :x: |
-| :x: | 06549 | [S][A6A6I2] ====> |  |  | :x: |
-| :x: | 06898 | [S] GAME OVER. |  |  | :heavy_check_mark: |
-| :x: | 07083 | [S][A6A6I4] ====> |  |  | :x: |
-| :x: | 07095 | [S][A6A6I4] ====> |  |  | :heavy_check_mark: |
-| :x: | 07098 | [S][A6A6I4] ====> |  |  | :heavy_check_mark: |
-| :x: | 07402 | [S][A6A6I4] ====> |  |  | :x: |
-| :x: | 07406 | [S] ACT 6 ACT 6 ACT 5 |  |  | :x: |
-| :x: | 17445 | [S] MSPA Reader: Mental breakdown. |  |  | :heavy_check_mark: |
-| :x: | 07445 | [S] ACT 6 ACT 6 INTERMISSION 5 |  |  | :x: |
-| :x: | echidna | [S][A6A6I5] ====> |  |  | :x: |
-| :x: | 07819 | [S][A6A6I5] ====> |  |  | :x: |
-| :x: | 07921 | [S][A6A6I5] ====> |  |  | :heavy_check_mark: |
-| :x: | 07953 | [S] Terezi: Remem8er. |  |  | :heavy_check_mark: |
-| :x: | 08080 | [S] Collide. |  |  | :heavy_check_mark: |
-| :x: | 08120 | [S] ACT 7 |  |  | :heavy_check_mark: |
-| :x: | 08122 | [S] ==> |  |  | :x: |
-| :x: | 08123 | [S] ==> |  |  | :heavy_check_mark: |
+| :x: | 03318 | [S] Kanaya: Return to the core. | 5 songs |  | :x: |
+| :x: | 03435 | [S] Equius: Seek the highb100d | 5 songs |  | :x: |
+| :x: | 03517 | [S] 3x SHOWDOWN COMBO. | Trollian Standoff |  | :heavy_check_mark: |
+| :x: | 03676 | [S] All: Behold glory of Zillyhoo. | Warhammer of Zillyhoo |  | :heavy_check_mark: |
+| :x: | 03692 | [S] Seer: Descend | Black Rose / Green Sun |  | :heavy_check_mark: |
+| :x: | 03693 | [S] ==> | At the Price of Oblivion |  | :heavy_check_mark: |
+| :x: | 03715 | [S] Terezi: Read note. | Secret ROM |  | :x: |
+| :x: | 03722 | [S] Terezi: Play records. | 6 songs |  | :x: |
+| :x: | 03741 | [S] Seer: Ascend | Terezi Owns |  | :heavy_check_mark: |
+| :x: | 03757 | [S] Flip. | BL1ND JUST1C3: 1NV3ST1G4T1ON !! |  | :x: |
+| :x: | 03949 | [S][o] ==> | Fear of the Heavens |  | :x: |
+| :x: | 04082 | [S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO. | The Carnival |  | :heavy_check_mark: |
+| :x: | 04106 | [S] Cascade. | Cascade |  | :heavy_check_mark: |
+| :x: | 04108 | [S] Begin Intermission 2. | English |  | :heavy_check_mark: |
+| :x: | 04110 | [S] ACT 6 | Homestuck Anthem |  | :heavy_check_mark: |
+| :x: | 04272 | [S] ==> | Foley |  | :heavy_check_mark: |
+| :x: | 04279 | [S] Jane: Get mail. | Windchime Foley |  | :x: |
+| :x: | 04370 | [S][A6I1] Karkat: Mental breakdown. | Frustracean |  | :heavy_check_mark: |
+| :x: | hs2/darkcage | [S] Cage: Reveal plan. | Frustracean |  | :heavy_check_mark: |
+| :x: | 04387 | [S] END OF ACT 6 INTERMISSION 1 | Infinity Mechanism |  | :heavy_check_mark: |
+| :x: | 04482 | [S] Roxy: Sleepwalk. | Even in Death |  | :heavy_check_mark: |
+| :x: | 04538 | [S] RAP-OFF!!!!!!!!!! | Anbroids |  | :x: |
+| :x: | 04569 | [S] Prince of Heart: Rise up. | Time on my Side |  | :heavy_check_mark: |
+| :x: | 04614 | [S] Frigglish: Fast forward to Jaspersprite. | Chorale for Jaspers |  | :heavy_check_mark: |
+| :x: | pony2 | [S] Ride. | Pony Chorale |  | :heavy_check_mark: |
+| :x: | 04662 | [S] Jane: Enter | Another Jungle, A Taste for Adventure |  | :heavy_check_mark: |
+| :x: | 04812 | [S][A6I2] ??? | weird moody horse shit |  | :x: |
+| :x: | 04817 | [S] ACT 6 ACT 3 | Rain |  | :x: |
+| :x: | 04822 | [S] Jane: Proceed. | Ruins (With Strings) |  | :x: |
+| :x: | 04824 | [S] Jane: Cautiously approach. | Elevatorstuck |  | :x: |
+| :x: | 04939 | [S] DD: Ascend. | Black |  | :x: |
+| :x: | 04941 | [S] DD: Ascend more casually. | I'm a Member of the Midnight Crew (Acapella) |  | :heavy_check_mark: |
+| :x: | 05024 | [S] Terry: Fast forward to Liv. | I Don't Want to Miss a Thing |  | :heavy_check_mark: |
+| :x: | darkcage2 | [S] Wait, what am I supposed to do with this bunny again? | I Don't Want to Miss a Thing |  | :x: |
+| :x: | 05235 | [S] Dirk: Synchronize. | Unite Synchronization |  | :heavy_check_mark: |
+| :x: | 05249 | [S] Dirk: Unite. | Unite Synchronization |  | :heavy_check_mark: |
+| :x: | 05258 | [S] Caliborn: Enter. | Eternity Served Cold |  | :heavy_check_mark: |
+| :x: | 05260 | [S] ACT 6 INTERMISSION 3 | 5 songs |  | :heavy_check_mark: |
+| :x: | 05305 | [S][A6I3] ==> | 8 songs |  | :heavy_check_mark: |
+| :x: | 05370 | [S][A6I3] ==> | weird moody horse shit |  | :x: |
+| :x: | 05371 | [S][A6I3] ==> | weird moody horse shit |  | :x: |
+| :x: | 05372 | [S][A6I3] ==> | weird moody horse shit |  | :x: |
+| :x: | 05373 | [S][A6I3] ==> | weird moody horse shit |  | :x: |
+| :x: | 05374 | [S][A6I3] ==> | weird moody horse shit |  | :x: |
+| :x: | 05395 | [S][A6I3] ==> | 9 songs |  | :heavy_check_mark: |
+| :x: | 05424 | [S][A6I3] MINISTRIFE!!! | Killed by BR8K Spider!!!!!!!! |  | :heavy_check_mark: |
+| :x: | 05435 | [S] ACT 6 ACT 4 | Even in Death (T'Morra's Belly Mix) |  | :heavy_check_mark:|
+| :x: | 05437 | [S] ==> | Eternity Served Cold |  | :x: |
+| :x: | 05468 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05469 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05470 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05471 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05482 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05491 | [S!][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05492 | [!!!][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05509 | [S] ACT 6 ACT 5 | A Taste for Adventure |  | :heavy_check_mark: |
+| :x: | 05652 | [S] Ride. | Horschestra STRONG Version |  | :heavy_check_mark: |
+| :x: | 05708 | [S] Jane: Engage. | Trickster Mode (Engage) |  | :x: |
+| :x: | 05709 | [S] Jane: Blast off. | Trickster Mode (Blast Off) |  | :x: |
+| :x: | 05711 | [S] ACT 6 ACT 5 ACT 2 | Kazoostuck |  | :x: |
+| :x: | 05723 | [S] ==> | Trickster Mode (Engage) |  | :x: |
+| :x: | 05737 | [S] ==> | Trickster Mode (Engage) |  | :x: |
+| :x: | 05756 | [S] ==> | Trickster Mode (Engage) |  | :x: |
+| :x: | 05760 | [S] Tricksters: Alchemize. | A Very Trickster Mode Christmas |  | :x: |
+| :x: | 05761 | [S] ==> | Warhammer of Zillyhoo (With Mario Paint) |  | :x: |
+| :x: | 05773 | [S] WHEEEEEEEEEEE! | A Very Trickster Mode Christmas (WHEEEEEEEEEEE!) |  | :x: |
+| :x: | 05774 | [S] HA HA HA! HE HE HE! HO HO HO! | A Very Trickster Mode Christmas (With Fancy Santas) |  | :x: |
+| :x: | 05978 | [S][A6I5] BEGIN INTERFISHIN | Elevatorstuck |  | :heavy_check_mark: |
+| :x: | 06063 | [S] END OF ACT 6 INTERMISSION 5 INTERMISSION 4 | Blackest Heart (With Honks) |  | :heavy_check_mark: |
+| :x: | 06228 | [S][A6I5] ==> | A Taste for Adventure |  | :heavy_check_mark: |
+| :x: | 06240 | [S] ACT 6 ACT 6 | Homosuck Anthem |  | :x: |
+| :x: | 06276 | [S] ACT 6 ACT 6 INTERMISSION 1 | Gold Pilot |  | :heavy_check_mark: |
+| :x: | 06397 | [S][A6A6I1] ====> | Elevator Stuck |  | :x: |
+| :x: | 06549 | [S][A6A6I2] ====> | Fuchsia Ruler |  | :x: |
+| :x: | 06898 | [S] GAME OVER. | Carne Vale |  | :heavy_check_mark: |
+| :x: | 07083 | [S][A6A6I4] ====> | Fear of the Heavens |  | :x: |
+| :x: | 07095 | [S][A6A6I4] ====> | Pipeorgankind |  | :heavy_check_mark: |
+| :x: | 07098 | [S][A6A6I4] ====> | Elevatorstuck, with Meows |  | :heavy_check_mark: |
+| :x: | 07402 | [S][A6A6I4] ====> | not a creature was stirring |  | :x: |
+| :x: | 07406 | [S] ACT 6 ACT 6 ACT 5 | Homosuck Swan Song |  | :x: |
+| :x: | 17445 | [S] MSPA Reader: Mental breakdown. | Hello Zepp |  | :heavy_check_mark: |
+| :x: | 07445 | [S] ACT 6 ACT 6 INTERMISSION 5 | Moonsetter |  | :x: |
+| :x: | echidna | [S][A6A6I5] ====> | Snake Noises |  | :x: |
+| :x: | 07819 | [S][A6A6I5] ====> | Killed by BR8K Spider!!!!!!!! |  | :x: |
+| :x: | 07921 | [S][A6A6I5] ====> | Horsecatska |  | :heavy_check_mark: |
+| :x: | 07953 | [S] Terezi: Remem8er. | Do You Remem8er Me |  | :heavy_check_mark: |
+| :x: | 08080 | [S] Collide. | Collide |  | :heavy_check_mark: |
+| :x: | 08120 | [S] ACT 7 | Overture (Canon Edit) |  | :heavy_check_mark: |
+| :x: | 08122 | [S] ==> | Windchime Foley |  | :x: |
+| :x: | 08123 | [S] ==> | Ascend |  | :heavy_check_mark: |
 
