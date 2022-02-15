@@ -24,10 +24,10 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 |---|---|---|---|---|---|
 | :x: | 00070 | [S] John: Play haunting piano refrain. | Showtime (Piano Refrain) | Spoopy Piano o-o; | :x: |
 | :x: | 10082 | [S] ==> | Windchime Foley | Backyard Dumb | :x: |
-| :x: | 00088 | [S] John: Enter | Harlequin |  | :x: |
+| :x: | 00088 | [S] John: Enter | Harlequin | Harlecoaster (Not Voul. 1 Mix) | :x: |
 | :x: | 00090 | [S] STRIFE! | Showtime (Original Mix) | Showtime (Marching Band) | :x: |
 | :x: | 00137 | [S] ==> | Sburban Jungle (Brief Mix) | XP Boogie | :heavy_check_mark: |
-| :x: | 00186 | [S] ==> | Harlequin |  | :x: |
+| :x: | 00186 | [S] ==> | Harlequin | Harlecoaster (Not Voul. 1 Mix) | :x: |
 | :x: | 00222 | [S] Rose: Play a haunting refrain on the violin. | Aggrieve (Violin Refrain) | i got out my viola and did an RCT dodle because it was an emergency | :heavy_check_mark: |
 | :x: | 10246 | [S] John: Take bite of apple. | Sburban Countdown | Sburban Cascantdown | :heavy_check_mark: |
 | :x: | 00253 | [S] YOU THERE. BOY. | Showtime (Piano Refrain), Harlequin | Spoopy Piano o-o; | :heavy_check_mark: |
@@ -53,7 +53,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00843 | [S] Jade: Descend. | Harleboss | Harleband 2: The return of Harleband | :x: |
 | :x: | 00871 | [S] Dave: Abscond. | Beatdown Round 2 | Slamdown | :x: |
 | :x: | 00879 | [S] Rose: Ascend. | Harleboss | Harleband | :x: |
-| :x: | 00918 | [S] Strife!! | Dissension (Original) |  | :x: |
+| :x: | 00918 | [S] Strife!! | Dissension (Original) | I absolutely loathe this drummer. | :x: |
 | :x: | 00938 | [S] Rose: Fast forward to now. | Chorale for Jaspers | Chorale for Caliborn | :x: |
 | :x: | pony | [S] Ride. | Pony Chorale | pnoy crhlae | :heavy_check_mark: |
 | :x: | 00948 | [S] John: Examine your dad's room. | Revelawesome | Reveilleawesome | :heavy_check_mark: |
