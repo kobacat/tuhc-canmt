@@ -30,10 +30,10 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00186 | [S] ==> | Harlequin |  | :x: |
 | :x: | 00222 | [S] Rose: Play a haunting refrain on the violin. | Aggrieve (Violin Refrain) | i got out my viola and did an RCT dodle because it was an emergency | :heavy_check_mark: |
 | :x: | 10246 | [S] John: Take bite of apple. | Sburban Countdown | Sburban Cascantdown | :heavy_check_mark: |
-| :x: | 00253 | [S] YOU THERE. BOY. | Showtime (Piano Refrain), Harlequin |  | :heavy_check_mark: |
+| :x: | 00253 | [S] YOU THERE. BOY. | Showtime (Piano Refrain), Harlequin | Spoopy Piano o-o; | :heavy_check_mark: |
 | :x: | 00338 | [S] ==> | 18+ songs |  | :heavy_check_mark: |
 | :x: | 00388 | [S] Rose: Youth roll right out the front door. | Aggrieve | Aggrieve! | :x: |
-| :x: | 00393 | [S] ==>==>==>!!!!!!!!! | Showtime (Imp Strife Mix) |  | :x: |
+| :x: | 00393 | [S] ==>==>==>!!!!!!!!! | Showtime (Imp Strife Mix) | JHON PLAY US A DITTY | :x: |
 | :x: | 00397 | [S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER. | Showtime (Imp Strife Mix) | JHON PLAY US A DITTY | :x: |
 | :x: | 00400 | [S] JOHN, SALVAGE YOUR WEAPON AND FIGHT ON! | Showtime (Imp Strife Mix) | JHON PLAY US A DITTY | :x: |
 | :x: | 00418 | [S] WHAT THIS IS SO OUTRAGEOUS | Nannaquin |  | :x: |
@@ -115,7 +115,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 04812 | [S][A6I2] ??? | weird moody horse shit | Moody Nigra Shit | :x: |
 | :x: | 04817 | [S] ACT 6 ACT 3 | Rain |  | :x: |
 | :x: | 04822 | [S] Jane: Proceed. | Ruins (With Strings) |  | :x: |
-| :x: | 04824 | [S] Jane: Cautiously approach. | Elevatorstuck |  | :x: |
+| :x: | 04824 | [S] Jane: Cautiously approach. | Elevatorstuck | Slight Delay | :x: |
 | :x: | 04939 | [S] DD: Ascend. | Black | Black (Extended) | :x: |
 | :x: | 04941 | [S] DD: Ascend more casually. | I'm a Member of the Midnight Crew (Acapella) | I'm a Member of the Midnight Crew (Canon Version (Canon Edit)) | :heavy_check_mark: |
 | :x: | 05024 | [S] Terry: Fast forward to Liv. | I Don't Want to Miss a Thing | the old version was unusable and we had like one day to replace it | :heavy_check_mark: |
@@ -134,13 +134,13 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 05424 | [S][A6I3] MINISTRIFE!!! | Killed by BR8K Spider!!!!!!!! |  | :heavy_check_mark: |
 | :x: | 05435 | [S] ACT 6 ACT 4 | Even in Death (T'Morra's Belly Mix) | Alphacoaster XP | :heavy_check_mark:|
 | :x: | 05437 | [S] ==> | Eternity Served Cold | Enter with Caliborn: Destruction Adventure | :x: |
-| :x: | 05468 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
-| :x: | 05469 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
-| :x: | 05470 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
-| :x: | 05471 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
-| :x: | 05482 | [S][A6I4] ==> | Elevatorstuck |  | :x: |
-| :x: | 05491 | [S!][A6I4] ==> | Elevatorstuck |  | :x: |
-| :x: | 05492 | [!!!][A6I4] ==> | Elevatorstuck |  | :x: |
+| :x: | 05468 | [S][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
+| :x: | 05469 | [S][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
+| :x: | 05470 | [S][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
+| :x: | 05471 | [S][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
+| :x: | 05482 | [S][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
+| :x: | 05491 | [S!][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
+| :x: | 05492 | [!!!][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
 | :x: | 05509 | [S] ACT 6 ACT 5 | A Taste for Adventure | jake englii2h you are LIITERALLY lowwer than rat piiss iin my eyes | :heavy_check_mark: |
 | :x: | 05652 | [S] Ride. | Horschestra STRONG Version | hors | :heavy_check_mark: |
 | :x: | 05708 | [S] Jane: Engage. | Trickster Mode (Engage) | JANE ENGAGES WITH SOME MEMES | :x: |
@@ -158,12 +158,12 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 06228 | [S][A6I5] ==> | A Taste for Adventure | gnarly piono solbo | :heavy_check_mark: |
 | :x: | 06240 | [S] ACT 6 ACT 6 | Homosuck Anthem | Homoshack Anthem | :x: |
 | :x: | 06276 | [S] ACT 6 ACT 6 INTERMISSION 1 | Gold Pilot | CRITICAL ERROR | :heavy_check_mark: |
-| :x: | 06397 | [S][A6A6I1] ====> | Elevator Stuck |  | :x: |
+| :x: | 06397 | [S][A6A6I1] ====> | Elevatorstuck | Slight Delay | :x: |
 | :x: | 06549 | [S][A6A6I2] ====> | Fuchsia Ruler |  | :x: |
 | :x: | 06898 | [S] GAME OVER. | Carne Vale | Vegetal Colina | :heavy_check_mark: |
 | :x: | 07083 | [S][A6A6I4] ====> | Fear of the Heavens |  | :x: |
 | :x: | 07095 | [S][A6A6I4] ====> | Pipeorgankind | Tycoonkind | :heavy_check_mark: |
-| :x: | 07098 | [S][A6A6I4] ====> | Elevatorstuck, with Meows |  | :heavy_check_mark: |
+| :x: | 07098 | [S][A6A6I4] ====> | Elevatorstuck, with Meows | Slight Delay, with Meows | :heavy_check_mark: |
 | :x: | 07402 | [S][A6A6I4] ====> | not a creature was stirring |  | :x: |
 | :x: | 07406 | [S] ACT 6 ACT 6 ACT 5 | Homosuck Swan Song | Homoshack Anthem Chief's Cut of the Day Edition | :x: |
 | :x: | 17445 | [S] MSPA Reader: Mental breakdown. | Hello Zepp | Hell"o" Kermit | :heavy_check_mark: |
