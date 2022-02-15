@@ -39,8 +39,8 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00418 | [S] WHAT THIS IS SO OUTRAGEOUS | Nannaquin |  | :x: |
 | :x: | 00422 | [S] GO ON. ==> | Skies of Skaia | Skaian Skaia of Skaia | :x: |
 | :x: | 00476 | [S] ==> | Harlequin (Rock Version) |  | :x: |
-| :x: | 00644 | [S] John: Sleep. | John Sleeps / Skaian Magicant |  | :heavy_check_mark: |
-| :x: | 00651 | [S] John: Wake Up. | John Sleeps / Skaian Magicant |  | :heavy_check_mark: |
+| :x: | 00644 | [S] John: Sleep. | John Sleeps / Skaian Magicant | Skaian Skaia of Skaia | :heavy_check_mark: |
+| :x: | 00651 | [S] John: Wake Up. | John Sleeps / Skaian Magicant | Skaian Skaia of Skaia | :heavy_check_mark: |
 | :x: | 00665 | [S] Dave: Ascend to the highest point of the building. | Upward Movement (Dave Owns) | UPWARD REDVX | :heavy_check_mark: |
 | :x: | 00721 | [S] WV: Lead your men to victory! | Vagabounce | Vagaboing | :x: |
 | :x: | 00755 | [S] WV: Hasten to the exit post-haste! | Sburban Reversal (Original) | Cascantan Reversal | :heavy_check_mark: |
