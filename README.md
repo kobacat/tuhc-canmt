@@ -64,7 +64,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 01073 | [S] Jade: Pester John. | Ballad of Awakening | Actually, the Plot Snaps in Place | :heavy_check_mark: |
 | :x: | 01149 | [S] Enter. | Sburban Jungle | SFXan jungle | :heavy_check_mark: |
 | :x: | 01267 | [S][I] ==> | Three in the Morning | Three in the Morning (4 1/3 Hours Late Remix; CaNon edit) | :heavy_check_mark: |
-| :x: | 01358 | [S] ACT 4 ==> | Doctor |  | :x: |
+| :x: | 01358 | [S] ACT 4 ==> | Doctor | I'd like to see your diploma | :x: |
 | :x: | 01407 | [S] ==> | Endless Climb | Neverending Ascent | :heavy_check_mark: |
 | :x: | 01641 | [S] Dave: Accelerate | Atmoyk Ebonpyre | Atmoyk Scy-Fy | :heavy_check_mark: |
 | :x: | 01656 | [S] ==> |  Bed of Rose's / Dreams of Derse |  | :heavy_check_mark: |
@@ -113,8 +113,8 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | pony2 | [S] Ride. | Pony Chorale | Tiny Chorale | :heavy_check_mark: |
 | :x: | 04662 | [S] Jane: Enter | Another Jungle, A Taste for Adventure | Jungle #3 (CaNH Edit) | :heavy_check_mark: |
 | :x: | 04812 | [S][A6I2] ??? | weird moody horse shit | Moody Nigra Shit | :x: |
-| :x: | 04817 | [S] ACT 6 ACT 3 | Rain |  | :x: |
-| :x: | 04822 | [S] Jane: Proceed. | Ruins (With Strings) |  | :x: |
+| :x: | 04817 | [S] ACT 6 ACT 3 | Rain | Stab - Stab - Stab | :x: |
+| :x: | 04822 | [S] Jane: Proceed. | Ruins (With Strings) | ruinds (with strigns) | :x: |
 | :x: | 04824 | [S] Jane: Cautiously approach. | Elevatorstuck | Slight Delay | :x: |
 | :x: | 04939 | [S] DD: Ascend. | Black | Black (Extended) | :x: |
 | :x: | 04941 | [S] DD: Ascend more casually. | I'm a Member of the Midnight Crew (Acapella) | I'm a Member of the Midnight Crew (Canon Version (Canon Edit)) | :heavy_check_mark: |
@@ -131,7 +131,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 05373 | [S][A6I3] ==> | weird moody horse shit | Moody Nigra Shit | :x: |
 | :x: | 05374 | [S][A6I3] ==> | weird moody horse shit | Moody Nigra Shit | :x: |
 | :x: | 05395 | [S][A6I3] ==> | 9 songs |  | :heavy_check_mark: |
-| :x: | 05424 | [S][A6I3] MINISTRIFE!!! | Killed by BR8K Spider!!!!!!!! |  | :heavy_check_mark: |
+| :x: | 05424 | [S][A6I3] MINISTRIFE!!! | Killed by BR8K Spider!!!!!!!! | Madame Controversielle 2 | :heavy_check_mark: |
 | :x: | 05435 | [S] ACT 6 ACT 4 | Even in Death (T'Morra's Belly Mix) | Alphacoaster XP | :heavy_check_mark:|
 | :x: | 05437 | [S] ==> | Eternity Served Cold | Enter with Caliborn: Destruction Adventure | :x: |
 | :x: | 05468 | [S][A6I4] ==> | Elevatorstuck | Slight Delay | :x: |
@@ -149,10 +149,10 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 05723 | [S] ==> | Trickster Mode (Engage) | JANE ENGAGES WITH SOME MEMES | :x: |
 | :x: | 05737 | [S] ==> | Trickster Mode (Engage) | JANE ENGAGES WITH SOME MEMES | :x: |
 | :x: | 05756 | [S] ==> | Trickster Mode (Engage) | JANE ENGAGES WITH SOME MEMES | :x: |
-| :x: | 05760 | [S] Tricksters: Alchemize. | A Very Trickster Mode Christmas |  | :x: |
+| :x: | 05760 | [S] Tricksters: Alchemize. | A Very Trickster Mode Christmas | ahahahahahahahahahahah, its XISTMAS you fat nasty trash | :x: |
 | :x: | 05761 | [S] ==> | Warhammer of Zillyhoo (With Mario Paint) | AAAAAAAAAAAAA (Post-canon version) (With Mario Paint) | :x: |
-| :x: | 05773 | [S] WHEEEEEEEEEEE! | A Very Trickster Mode Christmas (WHEEEEEEEEEEE!) |  | :x: |
-| :x: | 05774 | [S] HA HA HA! HE HE HE! HO HO HO! | A Very Trickster Mode Christmas (With Fancy Santas) |  | :x: |
+| :x: | 05773 | [S] WHEEEEEEEEEEE! | A Very Trickster Mode Christmas (WHEEEEEEEEEEE!) | ahahahahahahahahahahah, its XISTMAS you fat nasty trash | :x: |
+| :x: | 05774 | [S] HA HA HA! HE HE HE! HO HO HO! | A Very Trickster Mode Christmas (With Fancy Santas) | ahahahahahahahahahahah, its XISTMAS you fat nasty trash | :x: |
 | :x: | 05978 | [S][A6I5] BEGIN INTERFISHIN | Elevatorstuck | Slight Delay | :heavy_check_mark: |
 | :x: | 06063 | [S] END OF ACT 6 INTERMISSION 5 INTERMISSION 4 | Blackest Heart (With Honks) |  | :heavy_check_mark: |
 | :x: | 06228 | [S][A6I5] ==> | A Taste for Adventure | gnarly piono solbo | :heavy_check_mark: |
@@ -169,7 +169,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 17445 | [S] MSPA Reader: Mental breakdown. | Hello Zepp | Hell"o" Kermit | :heavy_check_mark: |
 | :x: | 07445 | [S] ACT 6 ACT 6 INTERMISSION 5 | Moonsetter | monsoonto | :x: |
 | :x: | echidna | [S][A6A6I5] ====> | Snake Noises |  | :x: |
-| :x: | 07819 | [S][A6A6I5] ====> | Killed by BR8K Spider!!!!!!!! |  | :x: |
+| :x: | 07819 | [S][A6A6I5] ====> | Killed by BR8K Spider!!!!!!!! | Madame Controversielle 2 | :x: |
 | :x: | 07921 | [S][A6A6I5] ====> | Horsecatska | Please help me I am in pain | :heavy_check_mark: |
 | :x: | 07953 | [S] Terezi: Remem8er. | Do You Remem8er Me | [S] Terezi: Rememe8er | :heavy_check_mark: |
 | :x: | 08080 | [S] Collide. | Collide | Coolaid | :heavy_check_mark: |
