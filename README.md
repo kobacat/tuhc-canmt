@@ -1,7 +1,7 @@
 # tuhc-canmt
  Music mod that replaces every flash song in the Unofficial Homestuck Collection with the Cool and New Homestuck songs
  
-![11%](https://progress-bar.dev/11?title=Progress) - 17 out of 154 flashes
+![11%](https://progress-bar.dev/11?title=Progress) - 16 out of 154 flashes
  
  ### Progress by Act
  
