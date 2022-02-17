@@ -1,7 +1,7 @@
 # tuhc-canmt
  Music mod that replaces every flash song in the Unofficial Homestuck Collection with the Cool and New Homestuck songs
  
-![11%](https://progress-bar.dev/11?title=Progress) - 16 out of 154 flashes
+![16%](https://progress-bar.dev/16?title=Progress) - 26 out of 154 flashes
  
  ### Progress by Act
  
@@ -17,9 +17,9 @@
 
 ![40%](https://progress-bar.dev/40?title=Act%202) - 6 out of 15 flashes
 
-![38%](https://progress-bar.dev/38?title=Act%203) - 7 out of 18 flashes
+![55%](https://progress-bar.dev/55?title=Act%203) - 10 out of 18 flashes
 
-![0%](https://progress-bar.dev/0?title=Act%204) - 0 out of 10 flashes
+![60%](https://progress-bar.dev/60?title=Act%204) - 6 out of 10 flashes
 
 ![3%](https://progress-bar.dev/3?title=Act%205) - 1 out of 26 flashes
 
@@ -101,19 +101,19 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :heavy_check_mark: | 00980 | [S] Jade: Retrieve package. | An Unbreakable Union, Carefree Victory | Unbreakable Unity | :heavy_check_mark: |
 | :heavy_check_mark: | 01026 | [S] Jade: Dream up extra arms and play advanced bass solo. | The Beginning of Something Really Excellent | The Beginning of Something Really Electronic | :heavy_check_mark: |
 | :heavy_check_mark: | 01070 | [S] Dave: Strife! | Versus | Contra | :heavy_check_mark: |
-| :x: | 01073 | [S] Jade: Pester John. | Ballad of Awakening | Actually, the Plot Snaps in Place | :heavy_check_mark: |
-| :x: | 01149 | [S] Enter. | Sburban Jungle | SFXan jungle | :heavy_check_mark: |
-| :x: | 01267 | [S][I] ==> | Three in the Morning | Three in the Morning (4 1/3 Hours Late Remix; CaNon edit) | :heavy_check_mark: |
+| :heavy_check_mark: | 01073 | [S] Jade: Pester John. | Ballad of Awakening | Actually, the Plot Snaps in Place | :heavy_check_mark: |
+| :heavy_check_mark: | 01149 | [S] Enter. | Sburban Jungle | SFXan jungle | :heavy_check_mark: |
+| :heavy_check_mark: | 01267 | [S][I] ==> | Three in the Morning | Three in the Morning (4 1/3 Hours Late Remix; CaNon edit) | :heavy_check_mark: |
 | :x: | 01358 | [S] ACT 4 ==> | Doctor | I'd like to see your diploma | :x: |
-| :x: | 01407 | [S] ==> | Endless Climb | Neverending Ascent | :heavy_check_mark: |
-| :x: | 01641 | [S] Dave: Accelerate | Atmoyk Ebonpyre | Atmoyk Scy-Fy | :heavy_check_mark: |
+| :heavy_check_mark: | 01407 | [S] ==> | Endless Climb | Neverending Ascent | :heavy_check_mark: |
+| :heavy_check_mark: | 01641 | [S] Dave: Accelerate | Atmoyk Ebonpyre | Atmoyk Scy-Fy | :heavy_check_mark: |
 | :x: | 01656 | [S] ==> |  Bed of Rose's / Dreams of Derse |  | :heavy_check_mark: |
-| :x: | 01668 | [S] Jack: Ascend. | Black | Venom Pools for Eons | :heavy_check_mark: |
+| :heavy_check_mark: | 01668 | [S] Jack: Ascend. | Black | Venom Pools for Eons | :heavy_check_mark: |
 | :x: | 01720 | [S] Rose and Dave: Shut up and jam. | 5 songs |  | :x: |
-| :x: | 01801 | [S] WV?: Rise up. | Skaian Skirmish | Checkmate | :heavy_check_mark: |
+| :heavy_check_mark: | 01801 | [S] WV?: Rise up. | Skaian Skirmish | Checkmate | :heavy_check_mark: |
 | :x: | sweetbroandhellajeff | SBAHJthemovie1 | where making this happen |  | :x: |
-| :x: | 11931 | [S] John: Reunite with your loving wife and daughter. | How Do I Live (Bunny Back in the Box Version) | How Do I Live? (Quality Back in the Album Version) | :heavy_check_mark: |
-| :x: | 01940 | [S] Descend. | Descend | go down (cool and new Mix) | :heavy_check_mark: |
+| :heavy_check_mark: | 11931 | [S] John: Reunite with your loving wife and daughter. | How Do I Live (Bunny Back in the Box Version) | How Do I Live? (Quality Back in the Album Version) | :heavy_check_mark: |
+| :heavy_check_mark: | 01940 | [S] Descend. | Descend | go down (cool and new Mix) | :heavy_check_mark: |
 | :x: | showdown.mp3 | [S???] ======> | Showdown |  | :heavy_check_mark: |
 | :x: | 02577 | [S] Make her pay. | Crystamanthequins | the worst song on the album | :heavy_check_mark: |
 | :x: | 02625 | [S] ACT 5 ACT 2 ==> | Homestuck | Nurse Joy | :heavy_check_mark: |
