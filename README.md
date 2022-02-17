@@ -48,7 +48,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00769 | [S] Jade: Play a silly little flute refrain. | Flute performance |  | :x: |
 | :x: | 00822 | [S] Jade: Play a hauntingly relaxing bassline. | Gardener | Sweet Haunt and Hella Bass | :x: |
 | :x: | 00830 | [S] Jade: Open FreshJamz! | 9 songs |  | :x: |
-| :x: | 00833 | [S] MIDNIGHT CREW: ACT 1031 | Dead Shuffle | Heedful Fads | :heavy_check_mark: |
+| :heavy_check_mark: | 00833 | [S] MIDNIGHT CREW: ACT 1031 | Dead Shuffle | Heedful Fads | :heavy_check_mark: |
 | :x: | 00836 | [S] DAVE: STRIFE. | Beatdown (Strider Style) | Smackdown | :x: |
 | :x: | 00843 | [S] Jade: Descend. | Harleboss | Harleband 2: The return of Harleband | :x: |
 | :x: | 00871 | [S] Dave: Abscond. | Beatdown Round 2 | Slamdown | :x: |
