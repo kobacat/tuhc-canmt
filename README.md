@@ -23,7 +23,17 @@
 
 ![3%](https://progress-bar.dev/3?title=Act%205) - 1 out of 26 flashes
 
-![0%](https://progress-bar.dev/0?title=Act%206) - 0 out of 73 flashes
+![0%](https://progress-bar.dev/0?title=Act%206%20Act%201) - 0 out of 6 flashes
+   
+![0%](https://progress-bar.dev/0?title=Act%206%20Act%202) - 0 out of 7 flashes
+   
+![0%](https://progress-bar.dev/0?title=Act%206%20Act%203) - 0 out of 19 flashes
+   
+![0%](https://progress-bar.dev/0?title=Act%206%20Act%204) - 0 out of 9 flashes
+   
+![0%](https://progress-bar.dev/0?title=Act%206%20Act%205) - 0 out of 15 flashes
+   
+![0%](https://progress-bar.dev/0?title=Act%206%20Act%206) - 0 out of 17 flashes
 
 ![0%](https://progress-bar.dev/0?title=Act%207) - 0 out of 3 flashes
   </tbody>
@@ -85,12 +95,12 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00879 | [S] Rose: Ascend. | Harleboss | Harleband | :x: |
 | :x: | 00918 | [S] Strife!! | Dissension (Original) | I absolutely loathe this drummer. | :x: |
 | :x: | 00938 | [S] Rose: Fast forward to now. | Chorale for Jaspers | Chorale for Caliborn | :x: |
-| :x: | pony | [S] Ride. | Pony Chorale | pnoy crhlae | :heavy_check_mark: |
+| :heavy_check_mark: | pony | [S] Ride. | Pony Chorale | pnoy crhlae | :heavy_check_mark: |
 | :heavy_check_mark: | 00948 | [S] John: Examine your dad's room. | Revelawesome | Reveilleawesome | :heavy_check_mark: |
-| :x: | 00979 | [S] John: Mental breakdown. | Hardlyquin | Oh God | :heavy_check_mark: |
-| :x: | 00980 | [S] Jade: Retrieve package. | An Unbreakable Union, Carefree Victory | Unbreakable Unity | :heavy_check_mark: |
-| :x: | 01026 | [S] Jade: Dream up extra arms and play advanced bass solo. | The Beginning of Something Really Excellent | The Beginning of Something Really Electronic | :heavy_check_mark: |
-| :x: | 01070 | [S] Dave: Strife! | Versus | Contra | :heavy_check_mark: |
+| :heavy_check_mark: | 00979 | [S] John: Mental breakdown. | Hardlyquin | Oh God | :heavy_check_mark: |
+| :heavy_check_mark: | 00980 | [S] Jade: Retrieve package. | An Unbreakable Union, Carefree Victory | Unbreakable Unity | :heavy_check_mark: |
+| :heavy_check_mark: | 01026 | [S] Jade: Dream up extra arms and play advanced bass solo. | The Beginning of Something Really Excellent | The Beginning of Something Really Electronic | :heavy_check_mark: |
+| :heavy_check_mark: | 01070 | [S] Dave: Strife! | Versus | Contra | :heavy_check_mark: |
 | :x: | 01073 | [S] Jade: Pester John. | Ballad of Awakening | Actually, the Plot Snaps in Place | :heavy_check_mark: |
 | :x: | 01149 | [S] Enter. | Sburban Jungle | SFXan jungle | :heavy_check_mark: |
 | :x: | 01267 | [S][I] ==> | Three in the Morning | Three in the Morning (4 1/3 Hours Late Remix; CaNon edit) | :heavy_check_mark: |
