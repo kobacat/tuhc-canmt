@@ -1,6 +1,36 @@
 # tuhc-canmt
- Music mod for the Unofficial Homestuck Collection
+ Music mod that replaces every flash song in the Unofficial Homestuck Collection with the Cool and New Homestuck songs
  
+![11%](https://progress-bar.dev/11?title=Progress) - 17 out of 154 flashes
+ 
+ ### Progress by Act
+ 
+ <details>
+<summary>Expand</summary>
+<br>
+ 
+ <!-- prettier-ignore -->
+<table>
+  <tbody>
+   
+![37%](https://progress-bar.dev/37?title=Act%201) - 3 out of 8 flashes
+
+![40%](https://progress-bar.dev/40?title=Act%202) - 6 out of 15 flashes
+
+![38%](https://progress-bar.dev/38?title=Act%203) - 7 out of 18 flashes
+
+![0%](https://progress-bar.dev/0?title=Act%204) - 0 out of 10 flashes
+
+![3%](https://progress-bar.dev/3?title=Act%205) - 1 out of 26 flashes
+
+![0%](https://progress-bar.dev/0?title=Act%206) - 0 out of 73 flashes
+
+![0%](https://progress-bar.dev/0?title=Act%207) - 0 out of 3 flashes
+  </tbody>
+</table>
+
+</details>
+
 # So, what is this?
 This is a mod for the [Unofficial Homestuck Collection](https://github.com/Bambosh/unofficial-homestuck-collection), a offline application for Homestuck & more. Homestuck has had many flashes with music attached to them, with almost every flash having a unique song.
 
@@ -56,7 +86,7 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :x: | 00918 | [S] Strife!! | Dissension (Original) | I absolutely loathe this drummer. | :x: |
 | :x: | 00938 | [S] Rose: Fast forward to now. | Chorale for Jaspers | Chorale for Caliborn | :x: |
 | :x: | pony | [S] Ride. | Pony Chorale | pnoy crhlae | :heavy_check_mark: |
-| :x: | 00948 | [S] John: Examine your dad's room. | Revelawesome | Reveilleawesome | :heavy_check_mark: |
+| :heavy_check_mark: | 00948 | [S] John: Examine your dad's room. | Revelawesome | Reveilleawesome | :heavy_check_mark: |
 | :x: | 00979 | [S] John: Mental breakdown. | Hardlyquin | Oh God | :heavy_check_mark: |
 | :x: | 00980 | [S] Jade: Retrieve package. | An Unbreakable Union, Carefree Victory | Unbreakable Unity | :heavy_check_mark: |
 | :x: | 01026 | [S] Jade: Dream up extra arms and play advanced bass solo. | The Beginning of Something Really Excellent | The Beginning of Something Really Electronic | :heavy_check_mark: |
