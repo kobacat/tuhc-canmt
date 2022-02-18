@@ -60,8 +60,29 @@ module.exports = {
 		'assets://storyfiles/hs2/11931/11931.mp3': './music/11931/11931.mp3', // How Do I Live (Bunny Back in the Box Version)
 		'assets://storyfiles/hs2/01940/01940.mp3': './music/01940/01940.mp3', // Descend
 		// ACT 5
-		'assets://storyfiles/hs2/13294/13294.mp3': './music/13294/13294.mp3', // Megalovania
-        'assets://storyfiles/hs2/03294/03294.mp3': './music/03294/03294.mp3', // Megalovania
+		'assets://storyfiles/hs2/02577/02577.mp3': './music/02577/02577.mp3', // Crystamanthequins
+		'assets://storyfiles/hs2/02625/02625.mp3': './music/02625/02625.mp3', // Homestuck
+		'assets://storyfiles/hs2/02786/02786.mp3': './music/02786/02786.mp3', // How Do I Live (Bunny Back in the Box Version)
+		'assets://storyfiles/hs2/02847/02847.mp3': './music/02847/02847.mp3', // Let the Squiddles Sleep (End Theme)
+		'assets://storyfiles/hs2/02926/02926.mp3': './music/02926/02926.mp3', // Umbral Ultimatum
+		'assets://storyfiles/hs2/02987/02987.mp3': './music/02987/02987.mp3', // Frost
+		'assets://storyfiles/hs2/03085/03085_hq.swf': './music/03085/03085_hq.swf', // Savior of the Waking World (TEMP FLASH FIX)
+		'assets://storyfiles/hs2/03085/03085.mp3': './music/03085/03085.mp3', // Savior of the Waking World 
+        'assets://storyfiles/hs2/03294/03294.mp3': './music/03294/03294.mp3', // Megalovania (Maybe fix timing in second part?)
+		'assets://storyfiles/hs2/13294/13294.mp3': './music/13294/13294.mp3', // Megalovania (Maybe fix timing in second part?)
+        'assets://storyfiles/hs2/03517/03517.mp3': './music/03517/03517.mp3', // Trollian Standoff
+        'assets://storyfiles/hs2/03676/03676.mp3': './music/03676/03676.mp3', // Warhammer of Zillyhoo
+		'assets://storyfiles/hs2/03692/03692.mp3': './music/03692/03692.mp3', // Black Rose / Green Sun (WALKAROUND MUSIC STILL PLAYS)
+		'assets://storyfiles/hs2/03693/03693.mp3': './music/03693/03693.mp3', // At the Price of Oblivion
+		'assets://storyfiles/hs2/03741/03741.mp3': './music/03741/03741.mp3', // Terezi Owns
+		'assets://storyfiles/hs2/04082/04082_hq.swf': './music/04082/04082_hq.swf', // The Carnival (TEMP FLASH FIX)
+		'assets://storyfiles/hs2/04082/04082.mp3': './music/04082/04082.mp3', //  The Carnival
+		'assets://storyfiles/hs2/04106/cascade_segment1.mp3': './music/04106/cascade_segment1.mp3', //  Cascade
+		'assets://storyfiles/hs2/04106/cascade_segment2.mp3': './music/04106/cascade_segment2.mp3', //  Cascade
+		'assets://storyfiles/hs2/04106/cascade_segment3.mp3': './music/04106/cascade_segment3.mp3', //  Cascade
+		'assets://storyfiles/hs2/04106/cascade_segment4.mp3': './music/04106/cascade_segment4.mp3', //  Cascade
+		'assets://storyfiles/hs2/04106/cascade_segment5.mp3': './music/04106/cascade_segment5.mp3', //  Cascade
+		'assets://storyfiles/hs2/04108/04108.mp3': './music/04108/04108.mp3', // English
 		
 		
     },
