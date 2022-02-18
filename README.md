@@ -1,7 +1,7 @@
 # tuhc-canmt
  Music mod that replaces every flash song in the Unofficial Homestuck Collection with the Cool and New Homestuck songs
  
-![16%](https://progress-bar.dev/16?title=Progress) - 26 out of 154 flashes
+![26%](https://progress-bar.dev/26?title=Progress) - 61 out of 154 flashes
  
  ### Progress by Act
  
@@ -21,7 +21,7 @@
 
 ![60%](https://progress-bar.dev/60?title=Act%204) - 6 out of 10 flashes
 
-![3%](https://progress-bar.dev/3?title=Act%205) - 1 out of 26 flashes
+![61%](https://progress-bar.dev/61?title=Act%205) - 16 out of 26 flashes
 
 ![0%](https://progress-bar.dev/0?title=Act%206%20Act%201) - 0 out of 6 flashes
    
@@ -115,31 +115,31 @@ Status | ID | Flash Name | Song Name | New Song Name | HQ Audio? |
 | :heavy_check_mark: | 11931 | [S] John: Reunite with your loving wife and daughter. | How Do I Live (Bunny Back in the Box Version) | How Do I Live? (Quality Back in the Album Version) | :heavy_check_mark: |
 | :heavy_check_mark: | 01940 | [S] Descend. | Descend | go down (cool and new Mix) | :heavy_check_mark: |
 | :x: | showdown.mp3 | [S???] ======> | Showdown |  | :heavy_check_mark: |
-| :x: | 02577 | [S] Make her pay. | Crystamanthequins | the worst song on the album | :heavy_check_mark: |
-| :x: | 02625 | [S] ACT 5 ACT 2 ==> | Homestuck | Nurse Joy | :heavy_check_mark: |
-| :x: | 02786 | [S] Vriska: Watch street tough maverick with nothing to lose | How Do I Live (Bunny Back in the Box Version) | I knew you was a punk | :heavy_check_mark: |
+| :heavy_check_mark: | 02577 | [S] Make her pay. | Crystamanthequins | the worst song on the album | :heavy_check_mark: |
+| :heavy_check_mark: | 02625 | [S] ACT 5 ACT 2 ==> | Homestuck | Nurse Joy | :heavy_check_mark: |
+| :heavy_check_mark: | 02786 | [S] Vriska: Watch street tough maverick with nothing to lose | How Do I Live (Bunny Back in the Box Version) | I knew you was a punk | :heavy_check_mark: |
 | :x: | 02791 | [S] Past Karkat: Wake Up. | 15 songs |  | :grey_question: |
-| :x: | 02847 | [S] Jade: Wake up. | Let the Squiddles Sleep (End Theme) | CAN'T WAKE UP | :heavy_check_mark: |
-| :x: | 02926 | [S] Jade: Enter. | Umbral Ultimatum | Umbrella Tomato | :heavy_check_mark: |
-| :x: | 02987 | [S] ==> | Frost | the worst song on the soundtrack | :heavy_check_mark: |
+| :heavy_check_mark: | 02847 | [S] Jade: Wake up. | Let the Squiddles Sleep (End Theme) | CAN'T WAKE UP | :heavy_check_mark: |
+| :heavy_check_mark: | 02926 | [S] Jade: Enter. | Umbral Ultimatum | Umbrella Tomato | :heavy_check_mark: |
+| :heavy_check_mark: | 02987 | [S] ==> | Frost | the worst song on the soundtrack | :heavy_check_mark: |
 | :x: | 03000 | [S] Jade: STRIFE!!!!!!!!!!!! | Sunslammer | Sunslammer is my music waifu | :x: |
 | :x: | 03077 | [S] John: Enter village. | Planet Healer, Fear of the Heavens |  | :x: |
-| :x: | 03085 | [S] JOHN: RISE UP. | Savior of the Waking World | Savior of Oppositenessses | :heavy_check_mark: |
+| :heavy_check_mark: | 03085 | [S] JOHN: RISE UP. | Savior of the Waking World | Savior of Oppositenessses | :heavy_check_mark: |
 | :star: | 13294 | [S] Wake. | MeGaLoVania | Mayorlovania | :heavy_check_mark: |
 | :x: | 03318 | [S] Kanaya: Return to the core. | 5 songs |  | :x: |
 | :x: | 03435 | [S] Equius: Seek the highb100d | 5 songs |  | :x: |
-| :x: | 03517 | [S] 3x SHOWDOWN COMBO. | Trollian Standoff | I started a joke! | :heavy_check_mark: |
-| :x: | 03676 | [S] All: Behold glory of Zillyhoo. | Warhammer of Zillyhoo | AAAAAAAAAAAAA (Post-canon version) | :heavy_check_mark: |
-| :x: | 03692 | [S] Seer: Descend | Black Rose / Green Sun | "You Know, You Could Cut Yourself With That Edge" | :heavy_check_mark: |
-| :x: | 03693 | [S] ==> | At the Price of Oblivion | "You Know, You Could Cut Yourself With That Edge" | :heavy_check_mark: |
+| :heavy_check_mark: | 03517 | [S] 3x SHOWDOWN COMBO. | Trollian Standoff | I started a joke! | :heavy_check_mark: |
+| :heavy_check_mark: | 03676 | [S] All: Behold glory of Zillyhoo. | Warhammer of Zillyhoo | AAAAAAAAAAAAA (Post-canon version) | :heavy_check_mark: |
+| :heavy_check_mark: | 03692 | [S] Seer: Descend | Black Rose / Green Sun | "You Know, You Could Cut Yourself With That Edge" | :heavy_check_mark: |
+| :heavy_check_mark: | 03693 | [S] ==> | At the Price of Oblivion | "You Know, You Could Cut Yourself With That Edge" | :heavy_check_mark: |
 | :x: | 03715 | [S] Terezi: Read note. | Secret ROM | X - V A P O R - R O M | :x: |
 | :x: | 03722 | [S] Terezi: Play records. | 6 songs |  | :x: |
-| :x: | 03741 | [S] Seer: Ascend | Terezi Owns | UPW4RD SN1FFM3NT | :heavy_check_mark: |
+| :heavy_check_mark: | 03741 | [S] Seer: Ascend | Terezi Owns | UPW4RD SN1FFM3NT | :heavy_check_mark: |
 | :x: | 03757 | [S] Flip. | BL1ND JUST1C3: 1NV3ST1G4T1ON !! | Deaf Injustice: Ignoration!! | :x: |
 | :x: | 03949 | [S][o] ==> | Fear of the Heavens |  | :x: |
-| :x: | 04082 | [S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO. | The Carnival | tycoonival | :heavy_check_mark: |
-| :x: | 04106 | [S] Cascade. | Cascade | CANWCade | :heavy_check_mark: |
-| :x: | 04108 | [S] Begin Intermission 2. | English | Tick Tock Comes the Bad Wolf | :heavy_check_mark: |
+| :heavy_check_mark: | 04082 | [S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO. | The Carnival | tycoonival | :heavy_check_mark: |
+| :heavy_check_mark: | 04106 | [S] Cascade. | Cascade | CANWCade | :heavy_check_mark: |
+| :heavy_check_mark: | 04108 | [S] Begin Intermission 2. | English | Tick Tock Comes the Bad Wolf | :heavy_check_mark: |
 | :x: | 04110 | [S] ACT 6 | Homestuck Anthem | CANthem | :heavy_check_mark: |
 | :x: | 04272 | [S] ==> | Foley |  | :heavy_check_mark: |
 | :x: | 04279 | [S] Jane: Get mail. | Windchime Foley | a third goddamn countdown | :x: |
